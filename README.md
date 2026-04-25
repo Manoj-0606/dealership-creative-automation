@@ -83,7 +83,7 @@ dealership-creative-automation/
 ├── app.py
 ├── main.py
 ├── requirements.txt
-│
+|---database.sql
 ├── core/
 │   └── image_engine.py
 │
